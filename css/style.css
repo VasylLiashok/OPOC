@@ -2447,7 +2447,7 @@ textarea.input {
   margin: 24px 0;
 }
 
-.rules__spollers-media--horizontal img {
+.rules__spollers-media--horizontal picture {
   -webkit-box-flex: 0;
       -ms-flex: 0 1 calc((100% - 0.75rem * 1) / 2);
           flex: 0 1 calc((100% - 0.75rem * 1) / 2);
